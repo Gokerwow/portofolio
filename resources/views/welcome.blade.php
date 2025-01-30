@@ -13,16 +13,16 @@
                 <h1 class="navbar-text">Brillian Maulana Syah</h1>
             </div>
             <ul class="navbar-right">
-                <li class="navbar-item">
+                <li class="navbar-item item-Home">
                     <a href="">Home</a>
                 </li>
-                <li class="navbar-item">
+                <li class="navbar-item item-Projetcs">
                     <a href="">Projects</a>
                 </li>
-                <li class="navbar-item">
+                <li class="navbar-item item-Achiev">
                     <a href="">Achievements</a>
                 </li>
-                <li class="navbar-item">
+                <li class="navbar-item item-Resume">
                     <a href="">Resume</a>
                 </li>
                 <li class="navbar-item">
@@ -78,23 +78,23 @@
                     <path d="M1022.08 220.211C1071.21 341.83 958.801 501.933 770.995 577.812C583.189 653.69 391.108 616.61 341.971 494.991C292.834 373.372 405.247 213.269 593.053 137.39C780.859 61.5118 972.94 98.5917 1022.08 220.211Z" fill="transparent"/>
                     </svg>    
                 <div class="bars">
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
-                    <div class="bar-item"></div>
+                    <div class="bar-item barFront1"></div>
+                    <div class="bar-item barFront2"></div>
+                    <div class="bar-item barFront3"></div>
+                    <div class="bar-item barFront4"></div>
+                    <div class="bar-item barFront5"></div>
+                    <div class="bar-item barFront6"></div>
+                    <div class="bar-item barFront7"></div>
+                    <div class="bar-item barFront8"></div>
+                    <div class="bar-item barFront9"></div>
+                    <div class="bar-item barFront10"></div>
+                    <div class="bar-item barFront11"></div>
+                    <div class="bar-item barFront12"></div>
+                    <div class="bar-item barFront13"></div>
+                    <div class="bar-item barFront14"></div>
+                    <div class="bar-item barFront15"></div>
+                    <div class="bar-item barFront16"></div>
+                    <div class="bar-item barFront17"></div>
                 </div>
                 <div class="bars-back">
                     <div class="bar-item2 bar1"></div>
